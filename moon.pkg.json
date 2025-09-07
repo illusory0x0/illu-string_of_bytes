@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "string_of_bytes.js.mbt": ["js"],
+    "string_of_bytes.mbt": ["wasm", "wasm-gc", "native"],
+    "moonbit_runtime.native.mbt": ["native"],
+    "moonbit_runtime.wasm.mbt": ["wasm"],
+    "move_bytes_to_string_runtime.mbt": ["native", "wasm"],
+    "move_bytes_to_string_copy.mbt": ["js", "wasm-gc"]
+  },
+  "native-stub": ["stub.c"]
+}

@@ -1,9 +1,9 @@
 {
-  "name": "username/hello",
+  "name": "illusory0x0/string_of_bytes",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
+  "repository": "https://github.com/illusory0x0/string_of_bytes",
   "license": "Apache-2.0",
-  "keywords": [],
-  "description": ""
+  "keywords": ["string", "bytes", "conversion", "utility", "moonbit"],
+  "description": "A MoonBit package for converting bytes to strings with efficient memory operations"
 }
